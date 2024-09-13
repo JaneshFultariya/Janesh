@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Janesh/static/css/main.fa7d76ae.css",
+    "main.js": "/Janesh/static/js/main.abfd60c0.js",
+    "static/js/787.512dd3f2.chunk.js": "/Janesh/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/Janesh/index.html",
+    "main.fa7d76ae.css.map": "/Janesh/static/css/main.fa7d76ae.css.map",
+    "main.abfd60c0.js.map": "/Janesh/static/js/main.abfd60c0.js.map",
+    "787.512dd3f2.chunk.js.map": "/Janesh/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7d76ae.css",
+    "static/js/main.abfd60c0.js"
+  ]
+}
